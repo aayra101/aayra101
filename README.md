@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi 👋 I'm Aayra Gupta  
 
-<!--
-**aayra101/aayra101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer & Communication Engineering @ Manipal University Jaipur  
+💻 Aspiring AI / Software Engineer  
+🌱 Currently learning Python, DSA & Generative AI  
 
-Here are some ideas to get you started:
+📍 Jaipur, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 🤖 Interests
+- Generative AI & LLMs  
+- Computer Vision  
+- Backend Development  
+- Open Source  
+
+---
+
+### 🌐 Connect with me
+<p>
+  <a href="https://github.com/aayra101">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=aayra101&show_icons=true&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayra101&layout=compact&theme=github_dark" />
