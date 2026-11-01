@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" alt="aayra.sh --live" width="100%"/>
+<img src="assets/terminal.svg?v=2" alt="aayra.sh --live" width="100%"/>
 
 <a href="https://github.com/aayra101"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aayra+%F0%9F%91%8B;I+build+LLM+backends+that+actually+ship;Python+%C2%B7+FastAPI+%C2%B7+RAG+%C2%B7+C%2B%2B;Currently+debugging+something+at+2+AM+%E2%98%95" alt="typing intro"/></a>
 
